@@ -1,5 +1,5 @@
 # glitch-warehouse
-Level -1 | Ragdoll Crash Test Facility @ WYSIWYG Low Grade Factory
+Ragdoll Crash Test Facility @ WYSIWYG Low Grade Factory
 
 Welcome to the ultimate Ragdoll Crash Test Facility.
 Here we will create and test our Ragdolls before sending them into production.
